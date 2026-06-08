@@ -1,4 +1,4 @@
-@import url("style/header.css");
+@import url("header.css");
 body {
     background-color: rgb(23, 231, 145);
 }
@@ -10,7 +10,8 @@ body {
     width:30%;
     height:30%;
 
-}h1{
+}
+h1{
     color:blue;
 }
     color:blue;
